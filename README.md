@@ -7,5 +7,5 @@
 
 **备注：`$sitePath` 是你在执行 `valet link ` 命令时的目录地址**
 
-关于文件中的三个方法serves、isStaticFile和frontControllerPath方法的具体介绍可以通过查看官网获得更多帮助。
+关于文件中的三个方法 serves 、isStaticFile 和 frontControllerPath 方法的具体介绍可以通过查看官网获得更多帮助。
 ## License
